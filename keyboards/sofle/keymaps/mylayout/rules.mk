@@ -1,0 +1,9 @@
+
+OLED_ENABLE = yes
+ENCODER_ENABLE = yes
+CONSOLE_ENABLE = no
+EXTRAKEY_ENABLE = yes
+COMBO_ENABLE = yes
+WPM_ENABLE = yes
+
+OLED_DRIVER = ssd1306 # Selects the right driver
